@@ -1,0 +1,16 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# jazznotes.io
+- project: MaDr.io
+  role: Full-stack Cloud Developer
+  duration: 2012 &mdash; Present
+  # url: "#"
+  description: Website.
+
+# Springfield Community Outreach Group
+- project: svelteKitStripped
+  role: Engineer
+  duration: 2007 &mdash; Present
+  # url: "#"
+  description: Stripped down version of the SvelteKit demo app.

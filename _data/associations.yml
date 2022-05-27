@@ -1,0 +1,15 @@
+# Associations
+# comment out the urls if you do not wish to display them
+
+- organization: Organization 1
+  role: Volunteer
+  year: 2020 &mdash; 2022
+  url: https://www.MaDr.io/
+  summary: Organized fund drives fundraising events for the benefit of local operations.
+
+
+- organization: Organization 2
+  role: Communications coordinator
+  year: 2018 &mdash; 2020
+  url: https://www.MaDr.io/
+  summary: During my years, I was actively helped facilitate our organization.

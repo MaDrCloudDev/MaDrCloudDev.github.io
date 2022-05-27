@@ -1,0 +1,13 @@
+# Degree
+- degree: Degree 1
+  uni: School 1
+  year: 2010 &mdash; 2018
+  awards:
+    - award: Cum Laude
+  summary: Meaningful roles at college
+
+- degree: School 2
+  uni: Univesity 2
+  year: 2008 &mdash; 2015
+  award: Most likely to succeed
+  summary: Summary
