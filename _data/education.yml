@@ -1,13 +1,15 @@
 # Degree
-- degree: Degree 1
-  uni: School 1
-  year: 2010 &mdash; 2018
+- degree: Bachelor of Business Administration in Entrepreneurship
+  uni: Washington State University
+  year: 2012 &mdash; 2015
   awards:
     - award: Cum Laude
-  summary: Meaningful roles at college
+  summary:
 
-- degree: Degree 2
-  uni: School 2
-  year: 2008 &mdash; 2015
-  award: Most likely to succeed
-  summary: Summary
+- degree: Associate of Arts & Sciences
+  uni: Bellevue College
+  year: 2010 &mdash; 2011
+  awards:
+    - award: Cum Laude
+    - award: Phi Theta Kappa Honor Society
+  summary:
