@@ -5,14 +5,20 @@
   duration: Nov, 2021 &mdash; Present
   summary: Core competencies
 
-# Afilliate Marketer
-- company: Sole Proprietor
-  position: Affiliate Marketer
-  duration:  Jan, 2011 &mdash; Present
-  summary: Summary
-
 # Social Media Evaluator
 - company: Appen Butler Hill
   position: Social Media Evaluator
   duration:   Mar, 2017  &mdash; Dec, 2018
   summary: <ul class="resume-item-list"><li>Content analysis and feedback for one of the largest social media networks</li><li>Managing deadlines independently and remotely, data entry</li></ul>
+
+  # Photo Editor
+- company: Molly Brown Temps, Inc.
+  position: Photoshop Editor, Webstore Assistant
+  duration:  Sep, 2015 &mdash; Nov 2015
+  summary: <ul class="resume-item-list"><li>Editing Images in Photoship for in-store kiosks/display UIs</li><li>Shipping fulfillment for online apparel company</li></ul>
+
+  # Afilliate Marketer
+- company: Sole Proprietor
+  position: Affiliate Marketer
+  duration:  Jan, 2011 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Online sales and marketing</li><li>Designing and managing WordPress and Wix websites</li></ul>
