@@ -3,7 +3,7 @@
   role: Developer
   duration: 2021 &mdash; Present
   url: "https://MaDr.io"
-  description: My personal cloud front-end for a few projects and businesses I'm developing
+  description: My personal cloud front-end for a few projects and businesses I'm developing, built with Svelte
 
 - project: callingCard
   role: Developer
@@ -22,3 +22,9 @@
   duration: 2022 &mdash; Present
   url: "https://weHadLeftTheGround.netlify.app"
   description: An open-soruce CSS + JS poem
+
+- project: My Résumé
+  role: Developer
+  duration: 2022 &mdash; Present
+  url: "https://MaDrCloudDev.github.io"
+  description: My résumé built with Jekyll and GitHub Pages
