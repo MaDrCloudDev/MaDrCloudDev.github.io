@@ -1,12 +1,11 @@
-# Skills
-# Organizational leadership
-- skill: Leadership
-  description: Leadering.
+- skill: Front End
+  description: Front end skills.
 
-# Communications strategy
-- skill: Strategy
-  description: Strategizing.
+- skill: Back End
+  description: Back end skills.
 
-# Digital content development and creation
-- skill: Creation
-  description: Creatoring.
+- skill: Design
+  description: Design Skills.
+
+- skill: Business
+  description: Business Skills.
