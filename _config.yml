@@ -23,7 +23,7 @@ resume_contact_address:         "Arizona"
 # resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Full stack cloud developer specializing in HTML, CSS, JavaScript & TypeScript. Linux, BASH, Node.js & NoSQL. Jamstack & Vector Design..</p>"
+resume_header_intro: "<p>Full stack cloud developer specializing in HTML, CSS, JavaScript & TypeScript. Linux, BASH, Node.js & NoSQL. Jamstack & Vector Design.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
