@@ -10,6 +10,12 @@
   url: "https://madr.blog/en/madrcloudfrontend/"
   description: My personal cloud front end for a few projects and businesses I'm developing, built with Svelte & tsParticles
 
+- project: MaDr Projects
+  role: Developer
+  duration: 2022 &mdash; Present
+  url: "https://madr.blog/en/madrprojects/"
+  description: Projects documentation site built with Astro
+
 - project: My Résumé
   role: Developer
   duration: 2022 &mdash; Present
