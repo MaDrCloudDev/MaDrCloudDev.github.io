@@ -20,8 +20,8 @@
 - project: weHadLeftTheGround
   role: Developer
   duration: 2022 &mdash; Present
-  url: "https://weHadLeftTheGround.netlify.app"
-  description: An open-soruce CSS + JS poem
+  url: "https://madr.blog/en/wehadlefttheground/"
+  description: An open-source, interactive CSS + JS poem
 
 - project: My Résumé
   role: Developer
