@@ -3,7 +3,7 @@
   role: Developer
   duration: 2021 &mdash; Present
   url: "https://MaDr.io"
-  description: My personal cloud front end for a few projects and businesses I'm developing, built with Svelte
+  description: My personal cloud front end for a few projects and businesses I'm developing, built with Svelte & tsParticles
 
 - project: callingCard
   role: Developer
