@@ -1,6 +1,3 @@
-# Associations
-# comment out the urls if you do not wish to display them
-
 - organization: Organization 1
   role: Volunteer
   year: 2020 &mdash; 2022
