@@ -14,7 +14,7 @@ resume_name:                    "Matthew Drish"
 resume_title:                   "Full-stack Cloud Developer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "admin@MaDr.io"
+resume_contact_email:           "temporary@MaDr.io"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 # resume_contact_telephone:       "555-7334"
