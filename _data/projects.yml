@@ -14,13 +14,13 @@
   # role: Developer & Designer
   # duration: 2022 &mdash; Present
   url: "https://madr.blog/en/madrprojects/"
-  description: Projects documentation site built with Astro
+  description: My projects documentation site, built with Astro
 
 - project: My Résumé
   # role: Developer & Designer
   # duration: 2022 &mdash; Present
   url: "https://madr.blog/en/myresume/"
-  description: My résumé built with Jekyll and GitHub Pages
+  description: My résumé, built with Jekyll and GitHub Pages
 
 - project: svelteKitStripped
   # role: Developer & Designer
