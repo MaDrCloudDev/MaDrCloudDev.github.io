@@ -1,35 +1,35 @@
 - project: callingCard
   role: Developer
-  duration: 2022 &mdash; Present
+  # duration: 2022 &mdash; Present
   url: "https://madr.blog/en/callingcard/"
-  description: Simple CSS calling-card-portfolio for developers who don't blog, or who don't want to put up a website they didn't build from scratch
+  description: Simple CSS calling-card-portfolio for developers who don't blog, or who don't want to put up a full website
 
 - project: MaDr Cloud Front End
   role: Developer
-  duration: 2021 &mdash; Present
+  # duration: 2021 &mdash; Present
   url: "https://madr.blog/en/madrcloudfrontend/"
   description: My personal cloud front end for a few projects and businesses I'm developing, built with Svelte & tsParticles
 
 - project: MaDr Projects
   role: Developer
-  duration: 2022 &mdash; Present
+  # duration: 2022 &mdash; Present
   url: "https://madr.blog/en/madrprojects/"
   description: Projects documentation site built with Astro
 
 - project: My Résumé
   role: Developer
-  duration: 2022 &mdash; Present
+  # duration: 2022 &mdash; Present
   url: "https://madr.blog/en/myresume/"
   description: My résumé built with Jekyll and GitHub Pages
 
 - project: svelteKitStripped
   role: Developer
-  duration: 2022 &mdash; Present
+  # duration: 2022 &mdash; Present
   url: "https://madr.blog/en/sveltekitstripped/"
   description: Stripped down version of the SvelteKit demo app for learning Svelte
 
 - project: weHadLeftTheGround
   role: Developer
-  duration: 2022 &mdash; Present
+  # duration: 2022 &mdash; Present
   url: "https://madr.blog/en/wehadlefttheground/"
   description: An open-source, interactive CSS + JS poem
