@@ -1,8 +1,14 @@
 - project: callingCard
-  role: Developer & Designer
+  # role: Developer & Designer
   # duration: 2022 &mdash; Present
   url: "https://madr.blog/en/callingcard/"
   description: Simple CSS calling-card-portfolio for developers who don't blog, or who don't want to put up a full website, running in Astro
+
+- project: draggableDiv
+  # role: Developer & Designer
+  # duration: 2022 &mdash; Present
+  url: "https://madr.blog/en/draggablediv/"
+  description: An open-source HTML div that can be dragged, built with vanilla JS + CSS
 
 - project: MaDr Cloud Front End
   # role: Developer & Designer
