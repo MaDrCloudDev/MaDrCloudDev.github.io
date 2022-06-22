@@ -1,20 +1,20 @@
-- project: callingCard
+- # project: callingCard
   # role: Developer & Designer
   # duration: 2022 &mdash; Present
-  url: "https://madr.blog/en/callingcard/"
-  description: Simple CSS calling-card-portfolio for developers who don't blog, or who don't want to put up a full website, running in Astro
+  # url: "https://madr.blog/en/callingcard/"
+  # description: Simple CSS calling-card-portfolio for developers who don't blog, or who don't want to put up a full website, running in Astro
 
-- project: draggableDiv
+- # project: draggableDiv
   # role: Developer & Designer
   # duration: 2022 &mdash; Present
-  url: "https://madr.blog/en/draggablediv/"
-  description: An open-source HTML div that can be dragged, built with vanilla JS + CSS
+  # url: "https://madr.blog/en/draggablediv/"
+  # description: An open-source HTML div that can be dragged, built with vanilla JS + CSS
 
-- project: MaDr Cloud Front End
+- # project: MaDr Cloud Front End
   # role: Developer & Designer
   # duration: 2021 &mdash; Present
-  url: "https://madr.blog/en/madrcloudfrontend/"
-  description: My personal cloud front end for a few projects and businesses I'm developing, built with Svelte & tsParticles
+  # url: "https://madr.blog/en/madrcloudfrontend/"
+  # description: My personal cloud front end for a few projects and businesses I'm developing, built with Svelte & tsParticles
 
 - project: MaDr Projects
   # role: Developer & Designer
@@ -22,20 +22,20 @@
   url: "https://madr.blog/en/madrprojects/"
   description: My projects documentation site, built with Astro
 
-- project: My Résumé
+- # project: My Résumé
   # role: Developer & Designer
   # duration: 2022 &mdash; Present
-  url: "https://madr.blog/en/myresume/"
-  description: My résumé, built with Jekyll and GitHub Pages
+  # url: "https://madr.blog/en/myresume/"
+  # description: My résumé, built with Jekyll and GitHub Pages
 
-- project: svelteKitStripped
+- # project: svelteKitStripped
   # role: Developer & Designer
   # duration: 2022 &mdash; Present
-  url: "https://madr.blog/en/sveltekitstripped/"
-  description: Stripped down version of the SvelteKit demo app for learning Svelte
+  # url: "https://madr.blog/en/sveltekitstripped/"
+  # description: Stripped down version of the SvelteKit demo app for learning Svelte
 
-- project: weHadLeftTheGround
+- # project: weHadLeftTheGround
   # role: Developer & Designer
   # duration: 2022 &mdash; Present
-  url: "https://madr.blog/en/wehadlefttheground/"
-  description: An open-source, interactive CSS + JS poem
+  # url: "https://madr.blog/en/wehadlefttheground/"
+  # description: An open-source, interactive CSS + JS poem
