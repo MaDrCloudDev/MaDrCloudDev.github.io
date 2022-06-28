@@ -97,7 +97,7 @@
   .icon-link { display: inline-block;
 
     &:hover .icon path {
-      fill: #a750ff;
+      fill: #338eef;
       @include transition(all .2s ease);
     }
   }
@@ -159,7 +159,7 @@
   .resume-item-copy,
   .resume-item-list {
     a {
-      color: #a750ff;
+      color: #338eef;
       text-decoration: none;
       border-bottom: 1px solid;
 
