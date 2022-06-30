@@ -113,19 +113,19 @@
       {% if site.resume_section_skills %}
       
       <section class="content-section">
-
         <header class="section-header">
           <h2>Skills</h2>
         </header>
-        {% for skill in site.data.skills %}
-        <div class="resume-item">
-          <h4 class="resume-item-details">{{ skill.skill }}</h4>
-          <a href="https://github.com/MaDrCloudDev">My GitHub</a>
-          <p class="resume-item-copy">{{ skill.description }}</p>
-        </div>
-        {% endfor %}
-
-      </section>
+      {% for skill in site.data.skills %}
+      <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
+        <h3 class="resume-item-title" itemprop="name">{% if skill.url %}<a target="_blank" href="{{ skill.url }}" itemprop="url">{{ skill.skill }}</a>{% else %}{{ skill.skill }}{% endif %}</h3>
+        <h4 class="resume-item-details" itemprop="description">{{ skill.role }}  <!--&bull;--> {{ skill.duration }}</h4>
+        <p class="resume-item-copy">{{ skill.description }}</p>
+      </div>
+      {% endfor %}
+    
+    </section>
       
       {% endif %}
 
