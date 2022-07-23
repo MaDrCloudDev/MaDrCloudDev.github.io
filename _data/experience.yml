@@ -3,17 +3,22 @@
   duration: Nov, 2021 &mdash; Present
   summary: <ul class="resume-item-list"><li>Freelance, full-stack web development & design</li><li>Cloud-development & cloud-business consulting</li><li>Vectorization & vector graphic design</li></ul>
 
-- company: Appen Butler Hill
+- company: Affiliate Marketer
+  position: Freelance
+  duration: Mar, 2011  &mdash; Present
+  summary: <ul class="resume-item-list"><li>Search engine optimization</li><li>Google Business & Analytics</li><li>Using Impact.com, ClickBank, & Commission Junction to market brands & earn commissions</li><li>Designing & managing WordPress & Wix websites</li></ul>
+
+- company: Appen
   position: Social Media Evaluator
   duration: Mar, 2017  &mdash; Dec, 2018
-  summary: <ul class="resume-item-list"><li>Content analysis & feedback for one of the largest social media networks</li><li>Managing deadlines independently & remotely, data entry</li></ul>
+  summary: <ul class="resume-item-list"><li>Content analysis & feedback for one of the largest social media networks</li><li>Managed deadlines independently & remotely, data entry</li><li>Provided in-depth feedback intended to improve social media algorithms</li></ul>
 
-- company: Molly Brown Temps, Inc.
-  position: Photoshop Editor, Webstore Assistant
+- company: Freelancer
+  position: Contract
   duration:  Sep, 2015 &mdash; Nov 2015
-  summary: <ul class="resume-item-list"><li>Editing images in Photoshop for in-store kiosks/display UIs</li><li>Shipping fulfillment for online apparel company</li></ul>
+  summary: <ul class="resume-item-list"><li>Edited images in Photoshop for in-store kiosks/display UIs, batch image editing</li><li>Shipping fulfillment for an online apparel company using Shopify & Stamps.com</li></ul>
 
-- company: Sole Proprietor
-  position: Affiliate Marketer
-  duration:  Jan, 2011 &mdash; Present
-  summary: <ul class="resume-item-list"><li>Search engine optimization</li><li>Google Business & Analytics</li><li>Using a variety of affiliate platforms to market brands & earn commissions</li><li>Designing & managing WordPress & Wix websites</li></ul>
+- company: eCommerce
+  # position:
+  duration:  Jan, 2010 &mdash; Dec, 2012
+  summary: <ul class="resume-item-list"><li>Managed an eCommerce web-store specializing in digital hardware sales</li><li>Shipping logistics & fulfillment</li><li>Maintained 100% positive feedback from customers</li><li>Arbitrage</li></ul>
