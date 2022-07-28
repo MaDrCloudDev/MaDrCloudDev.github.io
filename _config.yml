@@ -14,7 +14,7 @@ resume_name:                    "Matthew Drish"
 resume_title:                   "Full-stack Cloud Developer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "temporary@MaDr.io"
+resume_contact_email:           "admin@MaDr.io"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 # resume_contact_telephone:       "555-7334"
@@ -29,7 +29,7 @@ resume_header_intro: "<p>Full-stack cloud developer specializing in HTML, CSS, J
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "no"
+resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
